@@ -1,4 +1,4 @@
-## Interface Globo.com
+## Globo.com Interface 
 Site Published at: https://rayyventura.github.io/Interface_Globo.com/
 
 Static interface of globo.com </br>
