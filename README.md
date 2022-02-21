@@ -1,5 +1,5 @@
 # Globo.com 
-Site Published at: https://rayyventura.github.io/Interface_-Globo.com-/
+Site Published at:https://rayyventura.github.io/globo.com-interface/
 
 ## Static Interface of Globo Website </br>
 🎯 Target: **HTML** and **CSS** (Positioning elements with FlexBox)</br>
